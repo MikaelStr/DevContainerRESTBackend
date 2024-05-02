@@ -2,6 +2,7 @@
     "name": "ASP.NET Core",
     "dockerFile": "DockerFile",
     "forwardPorts": [5000, 5001],
+    "workspaceFolder": "/workspace",
     "settings": { 
         "terminal.integrated.shell.linux": "/bin/bash"
     },
