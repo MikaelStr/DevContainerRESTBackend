@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Fh2+98etX6oZjwLdGdWYuP3KUVyZ5br5RH7ry7pIaz25BWc0QDtf6NH1QBJUaOVeRTXhFWI8oS2+sgIqQ5b2Q==",
+  "dgSpecHash": "sB/g8acxSSDPvlrSfd3hMfI8iXtqbL+VgcaIR3yW9YXPzwP1L86tqvEuZGFNztZzGPKv6OBeoqUvWKbU55HznA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mikael.stridfeldt\\OneDrive - Solita Oy\\Desktop\\Eget\\DevContainers\\NetWebAPIHelloWord\\NetWebAPIHelloWord.csproj",
+  "projectFilePath": "C:\\Users\\mikael.stridfeldt\\OneDrive - Solita Oy\\Desktop\\Eget\\DevContainers\\NetWebAPIHelloWord\\NetWebAPIHelloWord.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mikael.stridfeldt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mikael.stridfeldt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
