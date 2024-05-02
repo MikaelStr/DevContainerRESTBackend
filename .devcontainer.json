@@ -1,0 +1,10 @@
+{
+    "name": "ASP.NET Core",
+    "dockerFile": "DockerFile",
+    "forwardPorts": [5000, 5001],
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["ms-dotnettools.csharp"],
+    "postCreateCommand": "git clone  https://github.com/solita-internal/netbackhelloworld.git"
+}
