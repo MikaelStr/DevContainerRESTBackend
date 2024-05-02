@@ -1,4 +1,2 @@
 bin/
-obj/
-NetWebAPIHelloWord/bin/
-NetWebAPIHelloWord/obj/
+obj/ -f
