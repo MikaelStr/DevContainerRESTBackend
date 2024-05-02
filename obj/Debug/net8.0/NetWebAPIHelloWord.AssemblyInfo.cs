@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetWebAPIHelloWord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a049ea4af7885c293fe003c3e0298012d8b8f4df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d06d7864e31eeed1867060a2e4122c04f937adc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetWebAPIHelloWord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetWebAPIHelloWord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
