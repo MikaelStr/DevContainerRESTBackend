@@ -7,6 +7,9 @@ WORKDIR /app
 # Copy the file from your host to your current location.
 COPY . .
 
+# Install the HTTPS development certificate.
+RUN dotnet dev-certs https --trust
+
 # Run the command inside your image filesystem.
 RUN dotnet restore
 
