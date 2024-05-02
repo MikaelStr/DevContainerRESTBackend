@@ -1,0 +1,9 @@
+{
+    "name": "ASP.NET Core",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [5000, 5001],
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["ms-dotnettools.csharp"]
+}
