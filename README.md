@@ -18,4 +18,4 @@ To get started with this project, you will need:
 2. Open the cloned repository folder in Visual Studio Code.
 3. Click on the "Reopen in Container" button located at the bottom left of the interface.
 
-![VS Code Open Devcontainer](Content/VSCodeOpenDevcontainer.png)
+![VS Code Open Devcontainer](Content/VSCOpenDevcontainer.png)
