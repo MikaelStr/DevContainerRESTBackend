@@ -1,22 +1,21 @@
-# DevContainerRESTBackend
-REST- Backend in .NET using  devcontainer to setup the development enviroment.
+# DevContainer REST Backend
+This project provides a REST backend developed in .NET, utilizing a development container (DevContainer) for environment setup.
 
+# Introduction
+The purpose of this repository is to demonstrate the use of a DevContainer environment within Microsoft Visual Studio Code.
 
-# Intro
-This repository is intended for proviing an example of a dev container environment via Microsoft Visual Studio Code. 
+# Prerequisites
+To get started with this project, you will need:
 
+- Docker Desktop: This is required to create and manage your DevContainer.
+- Visual Studio Code: This is the IDE used for development.
+  - Dev Containers Extension: This extension for Visual Studio Code allows you to open any folder inside (or mounted into) a DevContainer.
+  
+![VS Code Open Devcontainer](Content/DevContainersExtension.png)
 
-# Prerequsits 
-Docker Desktop  
-Visual Studio Code 
-   - Extension Dev Containers
-   ![VS Code Open Devcontainer](Content/DevContainersExtension.png)
+# Getting Started
+1. Clone this repository to your local machine.
+2. Open the cloned repository folder in Visual Studio Code.
+3. Click on the "Reopen in Container" button located at the bottom left of the interface.
 
-
-# HowTo
-1. Clone this repository
-2. Open folder in press button "Reopen in Container" in the form in the bottom left.
 ![VS Code Open Devcontainer](Content/VSCodeOpenDevcontainer.png)
-
-
-
